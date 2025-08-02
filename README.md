@@ -1,1 +1,1 @@
-# 2025_Doherty-Nomburg-Adler-2H_PDEs
+# 2025_Doherty-Nomburg-2H_PDEs
